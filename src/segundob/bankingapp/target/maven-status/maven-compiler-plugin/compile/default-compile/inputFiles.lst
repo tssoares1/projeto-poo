@@ -1,0 +1,15 @@
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/Main.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/domain/dto/LoginDTO.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/domain/dto/UserAccountDTO.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/domain/repositories/IBassRepository.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/domain/repositories/IUserInterface.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/domain/repositories/IUserRepository.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/celcoin/CelcoinBassRepository.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/console/ConsoleUI.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/postgres/PostgresConnection.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/swing/SwingUserInterface.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/testedb/UserTestDBRepository.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/infra/utils/Utils.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/services/Application.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/services/BankingService.java
+/home/tiago/Pessoal/Faculdade/Terceiro-Periodo/POO/projeto-poo/src/segundob/bankingapp/src/main/java/com/fag/services/UserService.java

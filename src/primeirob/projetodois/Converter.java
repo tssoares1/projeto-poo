@@ -1,4 +1,4 @@
-package projetodois;
+package src.primeirob.projetodois;
 
 import java.util.Scanner;
 
